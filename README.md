@@ -52,3 +52,33 @@ Some of the aspects explored in the analysis include:
    ```bash
    git clone https://github.com/TazeemTayob17/cars.csv-python-analysis.git
    cd cars.csv-python-analysis
+2. Make sure you have the required Python libraries installed:
+   ```bash
+   pip install numpy pandas matplotlib.pyplot seaborn
+3. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook
+  Then open the analysis notebook file (e.g., cars_analysis.ipynb).
+4. Run each cell in sequence to perform the analysis.
+
+## Key Findings
+
+- The most popular car brands and models in the dataset were identified.
+- Car prices were found to be influenced by factors such as mileage, age, and brand.
+- Relationships such as price vs. mileage and price vs. age were visualized and analyzed.
+- Outliers and missing data were detected and handled to improve analysis accuracy.
+- The analysis provided insights into trends and patterns across different car features.
+
+## Visualizations
+
+- **Histograms**: Plotted to show the distribution of car prices and mileages.
+- **Bar Charts**: Displayed the frequency of different car brands and models.
+- **Scatterplots**: Illustrated relationships between price, mileage, and age of the cars.
+- **Correlation Heatmaps**: Highlighted correlations between multiple numerical features.
+
+## Credits
+
+- **Author:** Tazeem Tayob  
+- **Course:** Summer Analytics Data Science 2025
+
+---
