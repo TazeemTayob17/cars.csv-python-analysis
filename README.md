@@ -58,8 +58,7 @@ Some of the aspects explored in the analysis include:
 3. Open the Jupyter Notebook:
    ```bash
    jupyter notebook
-  Then open the analysis notebook file (e.g., cars_analysis.ipynb).
-4. Run each cell in sequence to perform the analysis.
+4. Then open the analysis notebook file (e.g., cars_analysis.ipynb). Run each cell in sequence to perform the analysis.
 
 ## Key Findings
 
